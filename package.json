@@ -1,0 +1,23 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "Cli Currency Converter App",
+  "main": "app.js",
+  "dependencies": {
+    "unirest": "^0.5.1"    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkspb/Currency-Converter.git"
+  },
+  "author": "Nikolay Komolov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkspb/Currency-Converter/issues"
+  },
+  "homepage": "https://github.com/nkspb/Currency-Converter#readme"
+}
